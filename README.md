@@ -54,4 +54,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=IsmaelBortoluzzi&icon=0&color=6)](https://visitcount.itsvg.in)
 
+---
+
+# Personal Projects
+
+Feel free to take a look at my portifolio projects pinned below.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
